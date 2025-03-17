@@ -3,4 +3,4 @@
 # link
 下記のリンクで閲覧できます。
 
-http://127.0.0.1:3000/taiwan-site/index.html
+http://ss931730.stars.ne.jp/portfolio/taiwan-site/index.html
